@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "Task1.xsl"?>
+
+<touristInfo>
+
+	<touristGroup1>
+		<tourist type='ADT'>
+			<prefix>MRS</prefix>
+			<name>OLGA</name>
+			<surname>IVANOVA</surname>
+		</tourist>
+		<tourist type='CHD' birthDate='2005-09-30'>
+			<prefix>MR</prefix>
+			<name>ALEXEY</name>
+			<surname>IVANOV</surname>
+		</tourist>
+		<tourist type='INF' birthDate='2008-12-15'>
+			<prefix>MRS</prefix>
+			<name>ALESYA</name>
+			<surname>IVANOVA</surname>
+		</tourist>
+	</touristGroup1>
+
+	<touristGroup2>
+		<tourist type='ADT'>
+			<prefix>MR</prefix>
+			<name>SERGEI</name>
+			<surname>PETROV</surname>
+		</tourist>
+		<tourist type='ADT'>
+			<prefix>MRS</prefix>
+			<name>KATERINA</name>
+			<surname>PETROVA</surname>
+		</tourist>
+		<tourist type='ADT'>
+			<prefix>MRS</prefix>
+			<name>MARGARITHA</name>
+			<surname>PETROVA</surname>
+		</tourist>
+		<tourist type='CHD' birthDate='2005-09-30'>
+			<prefix>MR</prefix>
+			<name>ANDREY</name>
+			<surname>PETROV</surname>
+		</tourist>
+		<tourist type='INF' birthDate='2008-12-15'>
+			<prefix>MRS</prefix>
+			<name>ALLA</name>
+			<surname>PETROVA</surname>
+		</tourist>
+	</touristGroup2>
+
+	<touristGroup3>
+		<tourist type='ADT'>
+			<prefix>MR</prefix>
+			<name>PAVEL</name>
+			<surname>WERDOV</surname>
+		</tourist>
+		<tourist type='INF' birthDate='2008-12-15'>
+			<prefix>MRS</prefix>
+			<name>OKSANA</name>
+			<surname>WERDOVA</surname>
+		</tourist>
+	</touristGroup3>
+
+	<touristGroup4>
+		<tourist type='ADT'>
+			<prefix>MRS</prefix>
+			<name>SASHA</name>
+			<surname>KAVADERKO</surname>
+		</tourist>
+	</touristGroup4>
+
+</touristInfo>
